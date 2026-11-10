@@ -1,0 +1,193 @@
+{
+  "schema_version": "1.0",
+  "team_id": 3,
+  "topic": "Качество клиентского сервиса",
+  "synthetic": true,
+  "updated_at": "2026-11-10T19:00:00Z",
+  "grain": "period + office_id",
+  "units": {
+    "clients": "чел.",
+    "repeat_visits": "чел.",
+    "wait_minutes_total": "мин.",
+    "responses": "шт.",
+    "rating_sum": "баллы"
+  },
+  "records": [
+    {
+      "period": "2026-10-16",
+      "office_id": "A01",
+      "office": "Центральный",
+      "city": "Москва",
+      "clients": 100,
+      "repeat_visits": 35,
+      "wait_minutes_total": 1200,
+      "responses": 50,
+      "rating_sum": 215
+    },
+    {
+      "period": "2026-10-16",
+      "office_id": "A02",
+      "office": "Северный",
+      "city": "Санкт-Петербург",
+      "clients": 115,
+      "repeat_visits": 43,
+      "wait_minutes_total": 1725,
+      "responses": 58,
+      "rating_sum": 240.7
+    },
+    {
+      "period": "2026-10-16",
+      "office_id": "A03",
+      "office": "Восточный",
+      "city": "Екатеринбург",
+      "clients": 130,
+      "repeat_visits": 51,
+      "wait_minutes_total": 2340,
+      "responses": 66,
+      "rating_sum": 264
+    },
+    {
+      "period": "2026-10-16",
+      "office_id": "A04",
+      "office": "Южный",
+      "city": "Краснодар",
+      "clients": 145,
+      "repeat_visits": 59,
+      "wait_minutes_total": 3045,
+      "responses": 74,
+      "rating_sum": 284.9
+    },
+    {
+      "period": "2026-10-23",
+      "office_id": "A01",
+      "office": "Центральный",
+      "city": "Москва",
+      "clients": 110,
+      "repeat_visits": 36,
+      "wait_minutes_total": 1210,
+      "responses": 54,
+      "rating_sum": 237.6
+    },
+    {
+      "period": "2026-10-23",
+      "office_id": "A02",
+      "office": "Северный",
+      "city": "Санкт-Петербург",
+      "clients": 125,
+      "repeat_visits": 43,
+      "wait_minutes_total": 1750,
+      "responses": 62,
+      "rating_sum": 263.5
+    },
+    {
+      "period": "2026-10-23",
+      "office_id": "A03",
+      "office": "Восточный",
+      "city": "Екатеринбург",
+      "clients": 140,
+      "repeat_visits": 51,
+      "wait_minutes_total": 2380,
+      "responses": 70,
+      "rating_sum": 287
+    },
+    {
+      "period": "2026-10-23",
+      "office_id": "A04",
+      "office": "Южный",
+      "city": "Краснодар",
+      "clients": 155,
+      "repeat_visits": 60,
+      "wait_minutes_total": 3100,
+      "responses": 78,
+      "rating_sum": 308.1
+    },
+    {
+      "period": "2026-10-30",
+      "office_id": "A01",
+      "office": "Центральный",
+      "city": "Москва",
+      "clients": 120,
+      "repeat_visits": 36,
+      "wait_minutes_total": 1200,
+      "responses": 58,
+      "rating_sum": 261
+    },
+    {
+      "period": "2026-10-30",
+      "office_id": "A02",
+      "office": "Северный",
+      "city": "Санкт-Петербург",
+      "clients": 135,
+      "repeat_visits": 43,
+      "wait_minutes_total": 1755,
+      "responses": 66,
+      "rating_sum": 287.1
+    },
+    {
+      "period": "2026-10-30",
+      "office_id": "A03",
+      "office": "Восточный",
+      "city": "Екатеринбург",
+      "clients": 150,
+      "repeat_visits": 51,
+      "wait_minutes_total": 2400,
+      "responses": 74,
+      "rating_sum": 310.8
+    },
+    {
+      "period": "2026-10-30",
+      "office_id": "A04",
+      "office": "Южный",
+      "city": "Краснодар",
+      "clients": 165,
+      "repeat_visits": 59,
+      "wait_minutes_total": 3135,
+      "responses": 82,
+      "rating_sum": 332.1
+    },
+    {
+      "period": "2026-11-06",
+      "office_id": "A01",
+      "office": "Центральный",
+      "city": "Москва",
+      "clients": 130,
+      "repeat_visits": 36,
+      "wait_minutes_total": 1170,
+      "responses": 62,
+      "rating_sum": 285.2
+    },
+    {
+      "period": "2026-11-06",
+      "office_id": "A02",
+      "office": "Северный",
+      "city": "Санкт-Петербург",
+      "clients": 145,
+      "repeat_visits": 43,
+      "wait_minutes_total": 1740,
+      "responses": 70,
+      "rating_sum": 311.5
+    },
+    {
+      "period": "2026-11-06",
+      "office_id": "A03",
+      "office": "Восточный",
+      "city": "Екатеринбург",
+      "clients": 160,
+      "repeat_visits": 50,
+      "wait_minutes_total": 2400,
+      "responses": 78,
+      "rating_sum": 335.4
+    },
+    {
+      "period": "2026-11-06",
+      "office_id": "A04",
+      "office": "Южный",
+      "city": "Краснодар",
+      "clients": 175,
+      "repeat_visits": 59,
+      "wait_minutes_total": 3150,
+      "responses": 86,
+      "rating_sum": 356.9
+    }
+  ]
+}
